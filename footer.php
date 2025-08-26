@@ -81,7 +81,7 @@
     var fullMessage = `Name: ${name}%0AEmail: ${email}%0ASubject: ${subject}%0AMessage: ${message}`;
 
     // Replace with your WhatsApp number (in international format, no "+" or dashes)
-    var phoneNumber = "919047599999";
+    var phoneNumber = "918870644802";
 
     // Open WhatsApp chat
     var whatsappURL = `https://wa.me/${phoneNumber}?text=${fullMessage}`;
