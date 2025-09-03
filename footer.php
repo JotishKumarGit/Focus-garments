@@ -1,3 +1,4 @@
+
 <!-- Enquiry Modal -->
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -96,14 +97,14 @@
       <div class="col-lg-3 col-md-6">
         <h4 class="text-light mb-4">Address</h4>
         <p class="mb-2">
-          <i class="fa fa-map-marker-alt me-3"></i> 805/B,SREE PARANDHAMAN
-          NAGAR, DHARAPURAM ROAD,TIRUPPUR,TAMILNADU-641604.
+          <i class="fa fa-map-marker-alt me-3"></i> K.Chettipalayam ,Dharapuram road ,tiruppur-641606.
         </p>
         <p class="mb-2">
-          <i class="fa fa-phone-alt me-3"></i>+91 9047599999
+          <i class="fa fa-phone-alt me-3"></i>+91 9843394847
+
         </p>
-        <p class="mb-2">
-          <i class="fa fa-envelope me-3"></i>raviyuvarajas@gmail.com
+        <p class="mb-2">Raja@bellbuckgroups.com
+
         </p>
         <div class="d-flex pt-2">
           <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
@@ -146,7 +147,7 @@
       <div class="row">
         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
           &copy;
-          <a class="border-bottom" href="#">AS SOLUTIONS AND IMPLEMENTATION</a>, All Right Reserved.
+          <a class="border-bottom" href="#">Foucs Garments</a>, All Right Reserved.
         </div>
         <div class="col-md-6 text-center text-md-end">
           <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
