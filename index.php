@@ -74,8 +74,7 @@
     <div class="container-fluid">
       <!-- Logo -->
       <a class="navbar-brand fw-bold d-flex justify-content-center align-items-center" href="index.php">
-        <h1>Focus Garment</h1>
-        <!-- <span class="text-dark">AS SOLUTIONS AND IMPLEMENTATION</span> -->
+        <h1>Focus Garments</h1>
       </a>
 
       <!-- Right Side Icons (Always visible) -->
@@ -299,7 +298,7 @@
               <h5 class="card-title mb-3">Hoodie</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="hoodie.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -313,7 +312,7 @@
               <h5 class="card-title mb-3">Shorts</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="shorts.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -327,7 +326,7 @@
               <h5 class="card-title mb-3">Track Pant</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="trackPant.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -341,7 +340,7 @@
               <h5 class="card-title mb-3">Women Top</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="womenTop.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -355,7 +354,7 @@
               <h5 class="card-title mb-3">Women Hoodie</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="WomenHoodie.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -369,7 +368,7 @@
               <h5 class="card-title mb-3">Women's Fassion Wear</h5>
               <div class="d-flex justify-content-center gap-2">
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquiry</a>
-                <a href="#" class="btn btn-outline-primary px-3">Details</a>
+                <a href="WomenFassionWear.php" class="btn btn-outline-primary px-3">Details</a>
               </div>
             </div>
           </div>
@@ -872,7 +871,7 @@
         <div class="row">
           <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
             &copy;
-            <a class="border-bottom" href="#">Focus garment</a>, All Right Reserved.
+            <a class="border-bottom" href="#">Focus garments</a>, All Right Reserved.
           </div>
           <div class="col-md-6 text-center text-md-end">
             <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
